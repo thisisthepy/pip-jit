@@ -1,5 +1,5 @@
 ---
-name: Todo List
+name: Todo
 about: Use this template to outline and manage tasks for a specific goal or feature.
   Track progress using the checklist and ensure all necessary steps are completed.
 title: "[Todo]"
@@ -13,4 +13,4 @@ assignees: ''
 - [ ] List all necessary steps
 - [ ] Check off completed items to monitor progress
 
-### Knowledge
+### Knowledge
